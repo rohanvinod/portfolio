@@ -11,10 +11,10 @@
 }
 .nav{
   background-color: #363738;
-  color: white;
+  color: Black;
 }
 .nav-item{
-  color: white;;
+  color: Black;;
   font-size: 150%;
 }
 .nav-item:hover{
