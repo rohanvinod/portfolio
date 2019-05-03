@@ -34,14 +34,22 @@
   padding: 10%;
   line-height: 250%;
 }
-.aboutme{
+.home{
   background-color: #f2f2f2;
   padding: 10%;
-  margin-top: 20%;
+  margin-top: 45%;
   line-height: 250%;
 }
 .section{
   background-color: #f2f2f2;
   padding: 10%;
   line-height: 250%;
+}
+.title-part2 {
+  font-size: 350%;
+  border-bottom-style: solid;
+  font-family: "Open Sans Condensed", sans-serif;
+  margin-top: 20%;
+  color: white;
+  text-align: center;
 }
