@@ -14,8 +14,7 @@
   color: white;
 }
 .nav-item{
-  color: white;
-  font-family: "Text Me One", sans-serif;
+  color: white;;
   font-size: 150%;
 }
 .nav-item:hover{
@@ -52,6 +51,17 @@
 }
 #resume{
   background-image: url('Images/Resume.jpg');
+  background-size: cover;
+  background-attachment: fixed; 
+  background-position: center;
+}
+#projects{
+  background-image: url('Images/project.jpg');
+  background-size: cover;
+  background-attachment: fixed; 
+  background-position: center;
+}#contactme{
+  background-image: url('Images/contactme.jpg');
   background-size: cover;
   background-attachment: fixed; 
   background-position: center;
