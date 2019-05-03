@@ -9,6 +9,21 @@
     content: "";
     background-color: rgba(0,0,0,0);
 }
+.nav{
+  background-color: #363738;
+  color: white;
+}
+.nav-item{
+  color: white;
+  font-family: "Text Me One", sans-serif;
+  font-size: 150%;
+}
+.nav-item:hover{
+  color: rgba(255, 255, 255, 0.75);
+}
+.nav-link.active:hover{
+  color: rgba(255, 255, 255, 0.75);
+}
 .overlay{
   position: absolute;
   top: 0;
